@@ -31,7 +31,7 @@ Assurez-vous d'avoir installé Node.js et npm sur votre machine.
 ## Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/blog-api-inf222
+git clone https://github.com/samiraaoudou91-droid/blog-api-inf222
 cd blog-api-inf222
 ```
 
