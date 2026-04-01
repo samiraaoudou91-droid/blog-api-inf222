@@ -15,10 +15,10 @@ Le projet a été conçu avec une architecture modulaire pour garantir la mainte
 | Technologie        | Version    | Rôle                    |
 | ------------------ | ---------- | ----------------------- |
 | Node.js            | v[version] | Runtime JavaScript      |
-| Express.js         | v4.x       | Framework web           |
-| better-sqlite3     | v9.x       | Base de données SQLite  |
-| swagger-jsdoc      | v6.x       | Génération spec OpenAPI |
-| swagger-ui-express | v5.x       | Interface Swagger       |
+| Express.js         | v4    | Framework web           |
+| better-sqlite3     | v9      | Base de données SQLite  |
+| swagger-jsdoc      | v6       | Génération spec OpenAPI |
+| swagger-ui-express | v5 | Interface Swagger       |
 
 ## Installation et Lancement
 
